@@ -640,6 +640,17 @@
             "MD5": "73eac5d017a268ea8175c2025c2863ad",
             "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
+        },
+        {
+          "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt",
+            "MD5": "3fc67fd1f462724058eeda926a4ae946",
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt"
+          }
         }
       ]
     }
