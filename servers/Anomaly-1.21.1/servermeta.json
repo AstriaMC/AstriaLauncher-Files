@@ -2,8 +2,8 @@
   "$schema": "file:///E:/CustomLauncher/AstriaLauncher-Files/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "어노멀리 「붕괴」",
-    "description": "이상현상으로부터 살아남고 최후의 1인이 되어라",
+    "name": "어노멀리 「격리」",
+    "description": "이상 현상으로부터 살아남고 최후의 1인이 되세요",
     "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Anomaly/logo.png",
     "address": "anomaly",
     "discord": {
