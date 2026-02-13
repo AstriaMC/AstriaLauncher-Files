@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/CustomLauncher/AstriaLauncher-Files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "떡국서버",
+    "description": "파, 지단, 떡을 모아 떡국을 만들고 탈출하는 다이아 게임",
+    "icon": "https://raw.githubusercontent.com/AstriaLauncher-Files/TteokgukServer-1.21.8/refs/heads/main/icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
