@@ -1020,9 +1020,9 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 7211,
+            "size": 7212,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/files/config/defaultoptions/extra/config/sodium-extra-options.json",
-            "MD5": "c4f0d3bd796a05b790c5453b8cf84102",
+            "MD5": "fbae81701f9b1cc41f3a48e8871008b6",
             "path": "config/defaultoptions/extra/config/sodium-extra-options.json"
           }
         },
@@ -1189,6 +1189,17 @@
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/files/config/defaultoptions/servers.dat",
             "MD5": "f9a6e3c148a615953e8e3972697a738c",
             "path": "config/defaultoptions/servers.dat"
+          }
+        },
+        {
+          "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1791406,
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
           }
         }
       ]
