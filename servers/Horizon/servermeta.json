@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/CustomLauncher/AstriaLauncher-Files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "호라이즌 「여정」",
+    "description": "미지의 별을 개척하고, 당신의 여정을 떠나라",
+    "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Horizon/logo.png",
+    "address": "horizon",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.4"
+  },
+  "untrackedFiles": []
+}
