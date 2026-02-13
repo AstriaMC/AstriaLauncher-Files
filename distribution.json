@@ -13,7 +13,7 @@
       "description": "파, 지단, 떡을 모아 떡국을 만들고 탈출하는 다이아 게임",
       "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/logo.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "tteokgukserver",
       "minecraftVersion": "1.21.8",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
