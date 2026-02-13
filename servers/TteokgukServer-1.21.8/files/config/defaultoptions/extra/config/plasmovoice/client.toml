@@ -2,11 +2,6 @@ debug = false
 disable_crowdin = false
 check_for_updates = true
 
-[activations.4aec07ba-d109-3345-9a0a-92022a116cd0]
-type = "VOICE"
-toggle = false
-key_bindings = []
-
 [voice]
 disabled = false
 microphone_disabled = false
