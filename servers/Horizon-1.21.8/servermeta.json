@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "호라이즌 「여정」",
-    "description": "미지의 별을 개척하고, 당신의 여정을 떠나세요",
+    "description": "미지의 별에서 새로운 여정을 떠나고 개척하세요",
     "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Horizon/logo.png",
     "address": "horizon",
     "discord": {
