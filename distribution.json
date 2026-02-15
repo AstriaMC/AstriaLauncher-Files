@@ -574,8 +574,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 283791,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/BadOptimizations-2.4.1-1.21.6-21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/BadOptimizations-2.4.1-1.21.6-21.8.jar",
             "MD5": "a39446169c02cd97619d8c349f6e9985"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -650,8 +653,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1563283,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/entityculling-fabric-1.9.5-mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/entityculling-fabric-1.9.5-mc1.21.8.jar",
             "MD5": "987bf1ca5cb5dcde79bb6f84f959882e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -680,8 +686,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 82475,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/ferritecore-8.0.4-fabric.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/ferritecore-8.0.4-fabric.jar",
             "MD5": "16a510b25f8c974384f1a3a2d0358cdf"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -703,8 +712,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2742813,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/iris-fabric-1.9.6+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/iris-fabric-1.9.6+mc1.21.8.jar",
             "MD5": "64fdd8ffe47175923a1cfb6b0617867d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -726,8 +738,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 74623,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/language-reload-1.7.5+1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/language-reload-1.7.5+1.21.8.jar",
             "MD5": "2fd43b08d9d4c81a02eab52a929042bd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -736,8 +751,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24861,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/lazy-language-loader-0.3.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/lazy-language-loader-0.3.8.jar",
             "MD5": "c4ce749895eea22b390126bbd775cae0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -782,8 +800,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12185924,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/plasmovoice-fabric-1.21.6-2.1.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/plasmovoice-fabric-1.21.6-2.1.8.jar",
             "MD5": "ec3204b2d08193f388f73ae8fc8c0722"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -792,8 +813,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81061,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
             "MD5": "6256d2626c3a7252c681bdd7c992db46"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -802,8 +826,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 182660,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/ScalableLux-0.1.5.1+fabric.abdeefa-all.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/ScalableLux-0.1.5.1+fabric.abdeefa-all.jar",
             "MD5": "905960bc53a6f3d123163ae1543b715f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -825,8 +852,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 420199,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/sodium-extra-fabric-0.7.0+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/sodium-extra-fabric-0.7.0+mc1.21.8.jar",
             "MD5": "b5ac5b552279a9adb2d99cbfe7d1edef"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -835,8 +865,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1621285,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/sodium-fabric-0.7.3+mc1.21.8.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/sodium-fabric-0.7.3+mc1.21.8.jar",
             "MD5": "2e38db8afdf3a8d319658780b7f45501"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -858,8 +891,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2143945,
-            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/required/xaerominimap-fabric-1.21.8-25.3.10.jar",
+            "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/TteokgukServer-1.21.8/fabricmods/optionalon/xaerominimap-fabric-1.21.8-25.3.10.jar",
             "MD5": "b816d88f5051c24525f7de185d2440e1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
