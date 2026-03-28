@@ -1,0 +1,16 @@
+*.jar binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.exe binary
+*.dll binary
+*.so binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.mp3 binary
+*.mp4 binary
+*.ogg binary
+*.wav binary
