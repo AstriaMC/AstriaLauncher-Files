@@ -1165,7 +1165,7 @@
             "size": 333,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/defaultoptions-common.toml",
             "MD5": "82e2536f503755e4430bf9f886860204",
-            "path": "defaultoptions/extra/config/defaultoptions-common.toml"
+            "path": "config/defaultoptions/extra/config/defaultoptions-common.toml"
           }
         },
         {
@@ -1176,7 +1176,7 @@
             "size": 1108,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/entity_model_features.json",
             "MD5": "31998cb7a53c3a08bd6b321cb4a0a957",
-            "path": "defaultoptions/extra/config/entity_model_features.json"
+            "path": "config/defaultoptions/extra/config/entity_model_features.json"
           }
         },
         {
@@ -1187,7 +1187,7 @@
             "size": 296,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/iris.properties",
             "MD5": "ff3b86e9b2bbbdd1e8cd942e229cc4ba",
-            "path": "defaultoptions/extra/config/iris.properties"
+            "path": "config/defaultoptions/extra/config/iris.properties"
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "size": 1163,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/particlerain/config.json",
             "MD5": "80ddd562fd2e128d071903c964c7d871",
-            "path": "defaultoptions/extra/config/particlerain/config.json"
+            "path": "config/defaultoptions/extra/config/particlerain/config.json"
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "size": 202,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/particlerain/particles.json",
             "MD5": "369ec8f49f33c9a9ebec12a3cba8dac0",
-            "path": "defaultoptions/extra/config/particlerain/particles.json"
+            "path": "config/defaultoptions/extra/config/particlerain/particles.json"
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "size": 1239,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/plasmovoice/client.toml",
             "MD5": "3444028bf19ae8a33cb3550cc42cdd15",
-            "path": "defaultoptions/extra/config/plasmovoice/client.toml"
+            "path": "config/defaultoptions/extra/config/plasmovoice/client.toml"
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "size": 8662,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sodium-extra-options.json",
             "MD5": "3a5d916e1dc08305c9f5b9f7c035cbc7",
-            "path": "defaultoptions/extra/config/sodium-extra-options.json"
+            "path": "config/defaultoptions/extra/config/sodium-extra-options.json"
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "size": 715,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sodium-options.json",
             "MD5": "b0b0adfce6888919fd1a904910e193e2",
-            "path": "defaultoptions/extra/config/sodium-options.json"
+            "path": "config/defaultoptions/extra/config/sodium-options.json"
           }
         },
         {
@@ -1253,7 +1253,7 @@
             "size": 592,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sounds/chat.json",
             "MD5": "c230a08113063a37154368d29d211dbe",
-            "path": "defaultoptions/extra/config/sounds/chat.json"
+            "path": "config/defaultoptions/extra/config/sounds/chat.json"
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "size": 797,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sounds/event.json",
             "MD5": "c3f29ed1e95a458a27698a3c411ece6f",
-            "path": "defaultoptions/extra/config/sounds/event.json"
+            "path": "config/defaultoptions/extra/config/sounds/event.json"
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "size": 40,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sounds/mod_utils.json",
             "MD5": "9718acb5df3665d8f11d07d96ecdda7e",
-            "path": "defaultoptions/extra/config/sounds/mod_utils.json"
+            "path": "config/defaultoptions/extra/config/sounds/mod_utils.json"
           }
         },
         {
@@ -1286,7 +1286,7 @@
             "size": 2108,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sounds/ui.json",
             "MD5": "94252fa9b7107f42790a7a9fb821d7f2",
-            "path": "defaultoptions/extra/config/sounds/ui.json"
+            "path": "config/defaultoptions/extra/config/sounds/ui.json"
           }
         },
         {
@@ -1297,7 +1297,7 @@
             "size": 1615,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/sounds/world.json",
             "MD5": "0199cafb8637de1adc7ce732c5523729",
-            "path": "defaultoptions/extra/config/sounds/world.json"
+            "path": "config/defaultoptions/extra/config/sounds/world.json"
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "size": 255,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/config/voxy-config.json",
             "MD5": "f492899e6009f93684192a38f04feac9",
-            "path": "defaultoptions/extra/config/voxy-config.json"
+            "path": "config/defaultoptions/extra/config/voxy-config.json"
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "size": 32719108,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/extra/shaderpacks/AstriaShader.zip",
             "MD5": "daabca5e972e203d298182998074bb33",
-            "path": "defaultoptions/extra/shaderpacks/AstriaShader.zip"
+            "path": "config/defaultoptions/extra/shaderpacks/AstriaShader.zip"
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "size": 2977,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/keybindings.txt",
             "MD5": "5ad8ed27751cd6fe7fe802abf280bf1e",
-            "path": "defaultoptions/keybindings.txt"
+            "path": "config/defaultoptions/keybindings.txt"
           }
         },
         {
@@ -1341,7 +1341,7 @@
             "size": 2704,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/defaultoptions/options.txt",
             "MD5": "25826660804e993d996259b637f7d5fe",
-            "path": "defaultoptions/options.txt"
+            "path": "config/defaultoptions/options.txt"
           }
         }
       ]
