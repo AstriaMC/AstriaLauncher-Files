@@ -1349,7 +1349,7 @@
     {
       "id": "Flame-1.21.8",
       "name": "플레임 「종말」",
-      "description": "종말이 반복되는 세계에서 그 윤회를 끊어내세요",
+      "description": "2028년 12월 오픈 예정",
       "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Flame/logo.png",
       "version": "1.0.0",
       "address": "flame",
@@ -1459,7 +1459,7 @@
     {
       "id": "Horizon-1.21.8",
       "name": "호라이즌 「여정」",
-      "description": "미지의 별에서 새로운 여정을 떠나고 개척하세요",
+      "description": "2028년 4월 오픈 예정",
       "icon": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Horizon/logo.png",
       "version": "1.0.0",
       "address": "horizon",
