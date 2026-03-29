@@ -98,7 +98,7 @@ musicFrequency:"DEFAULT"
 soundCategory_master:0.5
 soundCategory_music:0.20774647887323944
 soundCategory_record:0.5035211267605634
-soundCategory_weather:0.15845070422535212
+soundCategory_weather:0.1056338028169014
 soundCategory_block:1.0
 soundCategory_hostile:0.20774647887323944
 soundCategory_neutral:0.30633802816901406

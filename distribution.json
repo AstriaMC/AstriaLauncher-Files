@@ -1325,9 +1325,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2704,
+            "size": 2703,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-1.21.8/files/config/defaultoptions/options.txt",
-            "MD5": "25826660804e993d996259b637f7d5fe",
+            "MD5": "05fee4fcb1352c43a13bf045341de5e0",
             "path": "config/defaultoptions/options.txt"
           }
         }
