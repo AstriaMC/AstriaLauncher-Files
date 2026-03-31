@@ -1207,9 +1207,9 @@
           "name": "iris.properties",
           "type": "File",
           "artifact": {
-            "size": 308,
+            "size": 317,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-26.2-1.21.8/files/config/defaultoptions/extra/config/iris.properties",
-            "MD5": "c7febd9dfc9546c2de866f2aff5109d7",
+            "MD5": "461dc7a57cb458b89cb9b509ad070608",
             "path": "config/defaultoptions/extra/config/iris.properties"
           }
         },
