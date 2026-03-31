@@ -1361,9 +1361,9 @@
           "name": "AstriaShader (선명함).zip",
           "type": "File",
           "artifact": {
-            "size": 32719108,
+            "size": 32719111,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-26.2-1.21.8/files/shaderpacks/AstriaShader%20(%EC%84%A0%EB%AA%85%ED%95%A8).zip",
-            "MD5": "daabca5e972e203d298182998074bb33",
+            "MD5": "0672fb0ec07e33855c8895d8913723ed",
             "path": "shaderpacks/AstriaShader (선명함).zip"
           }
         },
@@ -1372,9 +1372,9 @@
           "name": "AstriaShader (차분함).zip",
           "type": "File",
           "artifact": {
-            "size": 32719107,
+            "size": 32719110,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-26.2-1.21.8/files/shaderpacks/AstriaShader%20(%EC%B0%A8%EB%B6%84%ED%95%A8).zip",
-            "MD5": "70bfe58b415c85564efdbbf3198e70b6",
+            "MD5": "a98e88faf85d207d040d40f2fa5fa4c9",
             "path": "shaderpacks/AstriaShader (차분함).zip"
           }
         },
@@ -1383,9 +1383,9 @@
           "name": "AstriaShader (화사함).zip",
           "type": "File",
           "artifact": {
-            "size": 32719110,
+            "size": 32719113,
             "url": "https://raw.githubusercontent.com/AstriaMC/AstriaLauncher-Files/refs/heads/main/servers/Festival-26.2-1.21.8/files/shaderpacks/AstriaShader%20(%ED%99%94%EC%82%AC%ED%95%A8).zip",
-            "MD5": "bf448b68588238670a841fde66858ec8",
+            "MD5": "d86eed7a44219fbec1cbef64267a2524",
             "path": "shaderpacks/AstriaShader (화사함).zip"
           }
         }
