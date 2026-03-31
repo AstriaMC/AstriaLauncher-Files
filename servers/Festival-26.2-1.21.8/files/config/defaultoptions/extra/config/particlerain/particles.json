@@ -1,0 +1,15 @@
+{
+  "rain": {
+    "size": 0.1
+  },
+  "heavy_dust": {},
+  "mist_after_rain": {},
+  "ripple": {},
+  "snow": {},
+  "splatter": {},
+  "smoke": {},
+  "streak": {},
+  "dust": {},
+  "mist": {},
+  "shrub": {}
+}
