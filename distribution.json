@@ -939,19 +939,6 @@
           }
         },
         {
-          "id": "circuitlord.reactivemusic:reactivemusic:1.1.0+1.21.8@jar",
-          "name": "Reactive Music",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 294703206,
-            "url": "https://cdn.modrinth.com/data/Bqnfeesx/versions/ZhnGxSoH/reactivemusic-1.1.0%2B1.21.8.jar",
-            "MD5": "8d0325ef6b3bdd706e5d4d3a46eeb11b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.fabricmod:reeses-sodium-options:1.8.4+mc1.21.6@jar",
           "name": "Reese's Sodium Options",
           "type": "FabricMod",
